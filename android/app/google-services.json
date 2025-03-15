@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "180208529198",
+    "project_id": "lexus-f6fa7",
+    "storage_bucket": "lexus-f6fa7.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:180208529198:android:c172857c7f4c672a5c94bf",
+        "android_client_info": {
+          "package_name": "com.example.rahim"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBVxt4uk2G3h-yDQ5rjyC_IRI8E-kYC2d0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
